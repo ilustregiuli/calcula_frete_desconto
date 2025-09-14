@@ -1,0 +1,48 @@
+# ==============================
+# Java
+# ==============================
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Diretórios de compilação
+/target/
+/out/
+/bin/
+/build/
+
+# Logs
+*.log
+
+# Configuração de ambiente
+*.env
+
+# ==============================
+# IntelliJ IDEA
+# ==============================
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Plugins do IntelliJ
+out/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# ==============================
+# Sistema Operacional
+# ==============================
+.DS_Store
+Thumbs.db
+
+# Backup / temporários
+*.swp
+*.swo
+*.tmp
+*.bak
